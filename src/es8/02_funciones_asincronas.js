@@ -25,6 +25,7 @@ const anotherFn = async () => {
     console.log("Ya se ejecuto la asincrona!!");
 }
 
+//Ejecutamos el código
 console.log("Antes de la ejecucion");
 anotherFn();
 console.log("Despues de la ejecucion");

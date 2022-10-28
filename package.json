@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Curso_ECMA_Recap_de_versiones/issues"
   },
-  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Curso_ECMA_Recap_de_versiones#readme"
+  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Curso_ECMA_Recap_de_versiones#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
 }
